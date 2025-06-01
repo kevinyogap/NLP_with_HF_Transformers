@@ -11,7 +11,7 @@
 ---
 
 ## 👤 Author
-**Name:** Arifian Saputra
+**Name:** Kevin Yoga Pratama
 
 ---
 
